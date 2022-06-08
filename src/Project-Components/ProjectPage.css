@@ -1,0 +1,19 @@
+.projectCarousel{
+    margin: 100px 0;
+    height: 650px;
+    width: 100%;
+}
+.carouselImage{
+    margin-top:65px;
+    height: 385px;
+    width: 100%;
+    border: 100px solid #a79f9f;
+    border-bottom: 0px;
+    border-top: 0px;
+}
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+    color: black;
+}

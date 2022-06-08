@@ -1,0 +1,180 @@
+a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 30px;
+  }
+  
+  .nav-link{
+    margin:0px 0px;
+  }
+  
+  .navbar{
+    margin:0px 0px;
+    background-color: #f9e7ef;
+  }
+  
+  h1 h3{
+    margin: 0px 0px;
+  
+  }
+  
+  .introImg{
+    height: 385px;
+    width: 350px;
+    left: 55%;
+    margin: 70px auto auto auto;
+    position: absolute;
+    z-index: 1;
+  }
+  .introContent{
+    background-color: #f9e7ef;
+    float:left;
+    width: 70%;
+    height: 450px;
+    padding: 120px 0px 78px 100px;
+  }
+  .intro{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .introbg{
+    position: absolute;
+    height: 100%;
+      top: 0;
+      z-index: -1;
+      left: 70%;
+      width: 30%;
+      background-color: #E60965; 
+  }
+  .btn{
+    background-color: #E60965;
+    color: white;
+    margin: 0px 30px;
+  }
+  
+  .btn:hover{
+    background-color: #feabce;
+    color:black;
+  }
+  
+  .eduImg{
+    float: left;
+    margin: 100px 100px;
+    width: 250px;
+    height: 300px;
+    border: 7px solid white;
+    background-color: #f2f2f2;
+    box-shadow: 0px 2px 4px #a79f9f;
+    display: inline;
+  }
+  .eduImgBefore{
+    float: left;
+    margin: 120px 80px;
+    position: absolute;
+    z-index: -1;
+    width: 250px;
+    height: 300px;
+    border: 7px solid #E60965;
+  }
+  .eduTable{
+    text-align: center;
+    margin: 90px 10px 0px 50px;
+    width: 55%;
+    display: inline-block;
+  }
+  
+  thead{
+    background-color: #fdc4dd;
+  }
+  
+  tbody{
+    background-color: #fcecf3;
+  }
+  
+  h2{
+    margin-bottom: 20px;
+  }
+  .skillDeck{
+    width: 90%;
+    height: 150px;
+    text-align: center;
+  }
+  .skillCard{
+    height:120px;
+    padding: 20px;
+  }
+  .skillImg{
+    width: 32px;
+  }
+  
+  .skillDiv, .projectDiv, .contactDiv{
+    background-color: #fcecf3;
+    text-align: center;
+    padding: 20px 20px 40px 20px;
+    margin: 50px auto 0px auto;
+    width: 90%;
+    display: block;
+  }
+  .aboutDiv{
+    text-align: center;
+  }
+  .aboutImg{
+    height: 200px;
+    border-radius: 100%;
+    background-color: #f2f2f2;
+    box-shadow: 0px 2px 4px #a79f9f;
+    border: 5px solid #E60965;
+  }
+  .aboutText{
+    margin-left: 80px;
+    text-align: center;
+    display: inline-block;
+  }
+  .aboutContent1{
+    margin-bottom: 50px;
+    margin-right:10px;
+    text-align: left;
+    display: inline-block;
+  }
+  
+  .aboutContent2{
+    margin-bottom: 50px;
+    margin-left: 90px;
+    text-align: left;
+    display: inline-block;
+  }
+  
+  .projectDeck{
+    width: 90%;
+    height: 550px;
+    text-align: center;
+  }
+  .projectCard{
+    height:560px;
+    padding: 30px 0px;
+    border-radius: 2%;
+  }
+  
+  .projectImg{
+    border: 2px solid #E60965;
+    border-radius: 15%;
+    box-shadow: 2px 2px 4px #a79f9f;
+    height: 250px;
+    width:150px;
+  }
+  .form-group{
+    text-align: left;
+    margin: 5px 20px;
+    display: inline-block;
+  }
+  .contactDiv{
+    width: 100%;
+    display: inline-block;
+  }
+  
+  footer{
+    background-color: #E60965;
+    color:#fcecf3;
+  }

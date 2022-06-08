@@ -1,0 +1,58 @@
+{
+  "projects": [
+      {
+          "id": "covidApp",
+          "title": "Covid-19 App",
+          "thumbnail": "./Images/covidApp/one.png",
+          "introDesc": "Android Application to locate Covid-19 patients on GoogleMaps and get live update of cases in Indian States. (June, 2020)",
+          "img1": "/Images/covidApp/covidIntro.png",
+          "img1Title": "Introduction",
+          "img1Desc": "This slider was designed to introduce the user to the application.",
+          "img2": "/Images/covidApp/covidMap.png",
+          "img2Title": "Google Maps",
+          "img2Desc": "Google Maps help the user to locate the covid patient, if they have updated their status.",
+          "img3": "/Images/covidApp/covidNews.png",
+          "img3Title": "Covid News",
+          "img3Desc": "Check covid news on Indian Health Ministry website, it uses Web View.",
+          "img4": "/Images/covidApp/covidStatus.png",
+          "img4Title": "Update Heath Status",
+          "img4Desc": "The user can update his health status. Since it is a prototype, the data is stored offline using SQL."
+      },
+      {
+        "id": "marketApp",
+        "title": "Product Marketing App",
+        "thumbnail": "./Images/marketApp/one.png",
+        "introDesc": "Android Application for meat product marketing avalaible in 3 languages. Locate buyers and sellers on GoogleMaps. (Oct,2021)",
+        "img1": "/Images/marketApp/marketLang.png",
+        "img1Title": "Login",
+        "img1Desc": "This slider was designed for login and choosing the language. It also consists of a splash screen.",
+        "img2": "/Images/marketApp/marketFeatures.png",
+        "img2Title": "Market Features",
+        "img2Desc": "Users can register, the data will be saved on Google Firebase. Google Maps help the user to locate the buyer/seller.",
+        "img3": "/Images/marketApp/marketBuyer.png",
+        "img3Title": "Market Buyer",
+        "img3Desc": "The buyers can view all the nearby sellers and their menu. They can select their choice of breed. Before order is placed, it is storeed offline using SQL",
+        "img4": "/Images/marketApp/marketSeller.png",
+        "img4Title": "Market Seller",
+        "img4Desc": "The sellers can view all the recieved orders, the amount receivable and can update their menu listing."
+    },
+    {
+      "id": "labApp",
+      "title": "AUN Lab App",
+      "thumbnail": "./Images/labClone/one.png",
+      "introDesc": "Android Application made for the website of AUN Labs of Amity Univeristy. Documents viewed using Web View. (December, 2020)",
+      "img1": "/Images/labClone/labIntro.png",
+      "img1Title": "Introduction",
+      "img1Desc": "This activity was designed to introduce the user to the AUN Labs.",
+      "img2": "/Images/labClone/labHead.png",
+      "img2Title": "Lab Head",
+      "img2Desc": "Each Lab has a head, and its introduction is given.",
+      "img3": "/Images/labClone/labTeam.png",
+      "img3Title": "Lab Team",
+      "img3Desc": "The the team member details are available. Research and publications use Web View.",
+      "img4": "/Images/labClone/labDirector.png",
+      "img4Title": "Lab Director",
+      "img4Desc": "The direction of the team has various contact modes, all are available on the web site."
+  }
+  ]
+}
